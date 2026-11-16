@@ -1,6 +1,1 @@
-data/raw/train_images/
-data/raw/test_images/
-data/processed/
-data/best_model.pth
-__pycache__/
-*.pyc
+
